@@ -8,4 +8,6 @@ The proxy must be launched before the controller. It listens on two ports: one f
 
 The controller must be configured with the file controller.conf. It contains OpenStack API endpoints, authentification credentials, server templates, proxy's address and port etc.
 
+You can find a quick demonstration of QUORUM here: https://www.youtube.com/watch?v=nOqXCHBRJEs
+
 For any questions please contact dmytro.rubanov@etu.unice.fr.
